@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=zerojuu's&nbsp;code%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=CODE&nbsp;TIME%20&fontSize=60)
 
 <div align=center>
   
